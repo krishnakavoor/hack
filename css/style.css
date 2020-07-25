@@ -1,0 +1,18 @@
+.navbar{
+    background: #fff;
+}
+
+.logo-color{
+    color: #60b0f4 !important;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.search-bar{
+    background: #60b0f4;
+    margin-top: 75px;
+}
+
+.p-10{
+    padding: 10px;
+}
